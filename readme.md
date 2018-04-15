@@ -12,8 +12,11 @@ El código se encuentra en la carpeta src:
  - main.py : Punto de inicio para configurar y lanzar el crawler
  - PSStoreCrawler.py : Crawler para la tienda PlayStation Store que obtiene la información del catálogo de juegos de las plataformas configuradas utilizando web scraping
 
+## Respuestas de la práctica
+El documento con las respuestas de la práctica se ecuentra en la carpeta pdf
+
 ## Dataset
-El dataset contiene la informació de la Playstation Store generado el 12/04/2018 para las categorias Playstation 4, Playstation 3 y Playstation Vita
+El dataset se encuentra en la carpeta csv y contiene la informació de la Playstation Store generado el 12/04/2018 para las categorias Playstation 4, Playstation 3 y Playstation Vita
  
 ## Licencia
 Código y dataset bajo licencia [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
